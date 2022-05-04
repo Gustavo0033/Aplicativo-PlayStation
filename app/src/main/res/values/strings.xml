@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PlaystationApp</string>
+    <string name="startSessao">Iniciar Sessão</string>
+    <string name="email">Endereço de email</string>
+</resources>
