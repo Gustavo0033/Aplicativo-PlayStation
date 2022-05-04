@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         startNewSession();
     }
 
+    // This methods organize everything that is needed to start a new user session.
     private void startNewSession(){
         btnSessao = findViewById(R.id.btnSessao);
         btnSessao.setOnClickListener(View -> {
