@@ -5,10 +5,12 @@
       <map>
         <entry key="..\:/Users/gu200/PlaystationApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2615" />
         <entry key="..\:/Users/gu200/PlaystationApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2615" />
+        <entry key="..\:/Users/gu200/PlaystationApp/app/src/main/res/layout/activity_compartilhamento_tela.xml" value="0.33" />
         <entry key="..\:/Users/gu200/PlaystationApp/app/src/main/res/layout/activity_continue_conversa.xml" value="0.33" />
         <entry key="..\:/Users/gu200/PlaystationApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/gu200/PlaystationApp/app/src/main/res/layout/activity_prepare_jogar.xml" value="0.33" />
         <entry key="..\:/Users/gu200/PlaystationApp/app/src/main/res/layout/activity_tela_idsessao.xml" value="0.25" />
+        <entry key="..\:/Users/gu200/PlaystationApp/app/src/main/res/layout/activity_voltar_prepare_jogar.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>

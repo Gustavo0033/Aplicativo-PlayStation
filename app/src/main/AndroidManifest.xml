@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.PlaystationApp">
         <activity
+            android:name=".CompartilhamentoTela"
+            android:exported="false" />
+        <activity
             android:name=".ContinueConversa"
             android:exported="false" />
         <activity
