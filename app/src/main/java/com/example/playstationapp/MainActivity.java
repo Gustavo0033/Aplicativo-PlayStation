@@ -16,12 +16,14 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        btnSessao = findViewById(R.id.btnSessao);
+        startNewSession();
+    }
 
+    private void startNewSession(){
+        btnSessao = findViewById(R.id.btnSessao);
         btnSessao.setOnClickListener(View -> {
             Intent intent = new Intent(MainActivity.this, TelaIDsessao.class);
             startActivity(intent);
         });
-
-}
+    }
 }
